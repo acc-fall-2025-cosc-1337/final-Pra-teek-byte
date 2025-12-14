@@ -13,3 +13,4 @@ RollOutcome PointPhase::get_outcome(Roll* roll) {
         return RollOutcome::nopoint;
 }
 // Question 4 commit
+// Question 4 commit
