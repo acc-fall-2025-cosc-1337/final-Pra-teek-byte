@@ -12,3 +12,4 @@ RollOutcome PointPhase::get_outcome(Roll* roll) {
     else
         return RollOutcome::nopoint;
 }
+// Question 4 commit
